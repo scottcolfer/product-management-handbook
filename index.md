@@ -10,3 +10,4 @@ Preface
 
 - [Product management is responsible for value](../product-management-handbook/value)
 - [We run things like mini-businesses](../product-management-handbook/business)
+- [We manage the value of public and staff services](../product-management-handbook/publicservice)
