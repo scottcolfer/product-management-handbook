@@ -1,3 +1,3 @@
 # Contents
 
-- [Licence](../product-management-handbook/licence)
+- [Licence](../product-management-handbook/sharing)
