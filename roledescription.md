@@ -14,7 +14,7 @@ These role descriptions suggest that product management requires seven essential
 6. **Strategic ownership** - Focuses on outcomes, not solutions. Is bold - develops ambitious visions and strategies. Gets the organisation and team to buy-in. Translates the vision into prioritised deliverable goals.
 7. **Operational management**  - Able to manage the operational process of designing and running a product or service throughout its entire life-cycle. Able to implement best practice in new product or service development and knows how to plan and operationalise the stages of new product or service development. Able to overcome operational constraints to deliver a successful product or service. Works closely with other operational delivery teams.
 
-We can measure our performance in each of these capabilities using our [level of mastery](https://www.gov.uk/government/publications/product-manager-roles-skill-levels/product-manager-roles-skill-levels:
+We can measure our performance in each of these capabilities using our [level of mastery](https://www.gov.uk/government/publications/product-manager-roles-skill-levels/product-manager-roles-skill-levels):
 
 - Awareness - Has knowledge of the skill and an appreciation of how it is applied in the environment
 - Working - Applies knowledge and experience of the skill, including tools and techniques, adopting those most appropriate for the environment 
