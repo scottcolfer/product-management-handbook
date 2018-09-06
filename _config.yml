@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Product Management Handbook
 description: A white label product management handbook for government digital services
+logo: https://www.uhi.ac.uk/en/t4-media/one-web/university/research/resource/ccby-nc-sa.png
 baseurl: /product-management-handbook
 google_analytics: UA-20458896-6
