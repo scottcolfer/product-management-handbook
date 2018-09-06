@@ -6,6 +6,6 @@ Preface
 - [Where did this handbook come from?](../product-management-handbook/preface)
 - [Who is this handbook for?](../product-management-handbook/audience)
 
-What does product management mean within government?
+**What does product management mean within government?**
 
-1. [Product management is responsible for value](../product-management-handbook/value)
+- [Product management is responsible for value](../product-management-handbook/value)
