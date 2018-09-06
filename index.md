@@ -8,4 +8,4 @@ Preface
 
 What does product management mean within government?
 
-- Product management is responsible for value
+1. [Product management is responsible for value](../product-management-handbook/value)
