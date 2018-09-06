@@ -1,3 +1,3 @@
 # Contents
 
-- [Licence](../product-management-handbook/licence.md )
+- [Licence](../product-management-handbook/licence)
