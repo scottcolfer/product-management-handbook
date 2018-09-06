@@ -15,7 +15,7 @@ This isn’t always how government sees a service. Government sometimes sees ser
 ‘Learn to drive’ describes a service.
 ‘Statutory Off Road Vehicle Notification (SORN)' describes a transaction.
 
-*Reading:* [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) *Louise Downe*
+**Reading:** [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) *Louise Downe*
 
 **Principle 2: a service name starts with a verb**
 
@@ -25,7 +25,7 @@ When a service name starts with a verb like ‘Learn to drive’ it tends to foc
 
 When a service name starts with a noun like ‘Statutory Off Road Vehicle Notification (SORN)' it tends to focus on a transaction. It describes something the government does.
 
-*Reading:* [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) *Louise Downe*
+**Reading:** [Good services are verbs, bad services are nouns](https://designnotes.blog.gov.uk/2015/06/22/good-services-are-verbs-2/) *Louise Downe*
 
 **Principle 3: Use the term ‘service’ accurately and sparingly**
 
