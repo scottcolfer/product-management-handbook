@@ -21,4 +21,4 @@ We can measure our performance in each of these capabilities using our [level of
 - Practitioner - Shares knowledge and experience of the skill with others, including tools and techniques, defining those most appropriate for the environment
 - Expert - Has knowledge and experience in the application of this skill. Is a recognised specialist and advisor in this skill including user needs, generation of ideas, methods, tools and leading or guiding others in best practice use.
 
-These role descriptions are not infallible and not set in stone. They are published on [Github](https://github.com/alphagov/ddat-pathway-product-service-manager) and we can submit requests to change them if we see ways that they can be improved. 
+These role descriptions are not infallible and not set in stone. They are published on [Github](https://github.com/alphagov/ddat-pathway-product-service-manager) and we can submit requests to change them if we see ways to improve them.
