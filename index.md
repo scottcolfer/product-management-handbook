@@ -9,4 +9,4 @@ Preface
 **What does product management mean within government?**
 
 - [Product management is responsible for value](../product-management-handbook/value)
-- [We run things like mini-businesses] (../product-management-handbook/business)
+- [We run things like mini-businesses](../product-management-handbook/business)
