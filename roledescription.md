@@ -16,9 +16,9 @@ These role descriptions suggest that product management requires seven essential
 
 We can measure our performance in each of these capabilities using our [level of mastery](https://www.gov.uk/government/publications/product-manager-roles-skill-levels/product-manager-roles-skill-levels):
 
-- Awareness - Has knowledge of the skill and an appreciation of how it is applied in the environment
-- Working - Applies knowledge and experience of the skill, including tools and techniques, adopting those most appropriate for the environment 
-- Practitioner - Shares knowledge and experience of the skill with others, including tools and techniques, defining those most appropriate for the environment
-- Expert - Has knowledge and experience in the application of this skill. Is a recognised specialist and advisor in this skill including user needs, generation of ideas, methods, tools and leading or guiding others in best practice use.
+- **Awareness** - Has knowledge of the skill and an appreciation of how it is applied in the environment
+- **Working** - Applies knowledge and experience of the skill, including tools and techniques, adopting those most appropriate for the environment 
+- **Practitioner** - Shares knowledge and experience of the skill with others, including tools and techniques, defining those most appropriate for the environment
+- **Expert** - Has knowledge and experience in the application of this skill. Is a recognised specialist and advisor in this skill including user needs, generation of ideas, methods, tools and leading or guiding others in best practice use.
 
 These role descriptions are not infallible and not set in stone. They are published on [Github](https://github.com/alphagov/ddat-pathway-product-service-manager) and we can submit requests to change them if we see ways to improve them.
