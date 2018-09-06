@@ -1,4 +1,4 @@
-# We have publicly avialable role descriptions
+# We have publicly available role descriptions
 
 You can find and use product manager role descriptions and career pathway published on [GOV.UK](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework#product-and-delivery:-product-manager).
 
