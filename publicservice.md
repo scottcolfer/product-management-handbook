@@ -6,7 +6,7 @@ Product management in government is applied to public services and features of p
 
 We hear a lot about ‘end-to-end’ public services but what does that mean in practice? Several people have already provided us with excellent ways to understand this. Here are three principles to help us think about 'end to end services', based on posts published by Louise Downe and Kate Tarling.
 
-*Principle 1: a service helps a user to do something that needs to be done*
+**Principle 1: a service helps a user to do something that needs to be done**
 
 To a user, a service is simple. It’s something that helps them to do something - like learn to drive, buy a house, or become a childminder. It’s an activity that needs to be done.
 
