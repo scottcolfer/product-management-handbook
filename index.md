@@ -13,3 +13,4 @@ Preface
 - [We manage the value of public and staff services](../product-management-handbook/publicservice)
 - [Origins of the role of Product Manager](../product-management-handbook/origins)
 - [We have publicly available role descriptions](../product-management-handbook/roledescription)
+- [The career pathway for product managers](../product-management-handbook/pathway)
