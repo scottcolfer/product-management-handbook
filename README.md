@@ -23,7 +23,7 @@ If a code of conduct becomes useful then I'll probably use something like the [c
 
 ## Author
 
-- [Scott Colfer](https://github.com/scottcolfer)
+[Scott Colfer](https://github.com/scottcolfer)
 
 ## Licence
 
