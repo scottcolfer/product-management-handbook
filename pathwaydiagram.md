@@ -10,9 +10,10 @@ Let's look at the sections of the diagram and explore what they mean:
 The Associate Product Manager and Product Manager roles increase our mastery of the product management capabilities from awareness, to working level, to practitioner. We will have learned and understood the core concepts of product management - not just at the level of practices but also the underlying principles, allowing both application and innovation.
 
 **Product Management Expert**
-The ability to ‘get your hands dirty’, continuing to manage products, with a focus on promoting product management craftsmanship through example and teaching by doing. Also expertise in applying product management at scale. We need to develop broader leadership skills too:
-Business Strategy - The ability to apply business strategy and management frameworks to employ agile as a competitive business advantage such as Lean Start-Up and Lean Enterprise, product innovation techniques, flow-based business process management approaches, and other techniques that relate to innovating in the business domain.
-Digital Transformation - The ability to facilitate, accelerate and (as appropriate) lead organisational change and transformation. This area draws on change management, organisation culture, organisation development, systems thinking, and other behavioral sciences.
+The ability to ‘get our hands dirty’, continuing to manage products, with a focus on promoting product management craftsmanship through example and teaching by doing. Also expertise in applying product management at scale. We need to develop broader leadership skills too:
+
+- Business Strategy - The ability to apply business strategy and management frameworks to employ agile as a competitive business advantage such as Lean Start-Up and Lean Enterprise, product innovation techniques, flow-based business process management approaches, and other techniques that relate to innovating in the business domain
+- Digital Transformation - The ability to facilitate, accelerate and (as appropriate) lead organisational change and transformation. This area draws on change management, organisation culture, organisation development, systems thinking, and other behavioral sciences.
 
 The value of product management expertise, business strategy and digital transformation is often released via ‘soft skills’ such as mentoring and teaching, coaching and facilitating. Workflow professionals may often be the experts in these skills within our teams, but the skills remain important for product managers too.
 
