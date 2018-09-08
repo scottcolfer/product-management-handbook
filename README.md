@@ -21,9 +21,9 @@ Until then, some simple stuff to get things going:
 
 If a code of conduct becomes useful then I'll probably use something like the [contributor covenant](https://www.contributor-covenant.org/).
 
-## Authors
+## Author
 
-- [Scott Colfer](https://github.com/scottcolfer) - first versions up to current version
+- [Scott Colfer](https://github.com/scottcolfer)
 
 ## Licence
 
