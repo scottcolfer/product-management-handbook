@@ -18,3 +18,5 @@ Preface
 
 **Associate Product Manager**
 
+- [The Associate Product Manager role provides the core, tactical principles and skills of product management](../product-management-handbook/apmsummary)
+
