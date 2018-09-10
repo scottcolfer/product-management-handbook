@@ -31,6 +31,8 @@ There is a _lot_ written about Scrum.
 - [Sprint review tips for product owners](http://www.romanpichler.com/blog/sprint-review-tips-for-product-owners/)
 - [Agile Product Management with Scrum](https://www.romanpichler.com/romans-books/agile-product-management-with-scrum/)
 
+Also:
+
 - [Product Owner Anti-Patterns](https://age-of-product.com/product-owner-anti-patterns/), *Stefan Wolpers*
 
 **Training::**
