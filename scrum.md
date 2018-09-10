@@ -21,11 +21,6 @@ Here are some key sections of the Scrum Guide for product managers:
 - [Increment](https://www.scrumguides.org/scrum-guide.html#artifacts-increment)
 - [Definition of Done](https://www.scrumguides.org/scrum-guide.html#artifact-transparency-done).
 
-Two key ceremonies for product managers are sprint planning and sprint review:
-
-- Product Managers/Product Owners are accountable for sprint reviews (with support from our Scrum Master/Delivery Manager and the rest of the team)
-- Scrum Master/Delivery Managers are accountable for sprint planning (with support from the entire team, including us).
-
 There is a _lot_ written about Scrum.
 
 **Reading:**
