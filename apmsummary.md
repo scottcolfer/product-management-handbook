@@ -6,7 +6,7 @@ Associate Product Manager/Trainee Product Manager is where we learn how to take 
 
 Associate Product Managers may start with a general awareness of product management tactics but are expected to develop rapidly, gaining working-level skills (i.e. can genuinely add value to a team) within six to twelve-months (ideally). The Associate Product Manager and the host organisation both need to commit to learning and development if this is rapid development is to be feasible.
 
-Good conditions for rapid development of an Associate Product Manager are:
+Good conditions for rapid development of an Associate Product Manager include:
 
 - association with a Product Manager or Senior Product Manager, ideally the person who owns the overall vision for the product/service on which the Associate Product Manager is working
 - initially placement on a mature team, in the development phase (referred to as 'Beta' within government services); Associates initially placed in the exploration phase (inquiries, discoveries, or alphas) may find this tricky, since even mature teams find this phase tricky
