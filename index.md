@@ -27,3 +27,4 @@ Preface
 
 - [The Product Manager role develops the strategic principles and skills of product management](../product-management-handbook/pmsummary)
 - [Make use of the Lean Startup](https://www.gov.uk/service-toolkit)
+- [Simplicity - the art of maximising the amount of work not done - is essential](https://www.gov.uk/simplicity)
