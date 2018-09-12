@@ -25,4 +25,4 @@ Preface
 
 **Product Manager**
 
-*Coming soon*
+- [The Product Manager role develops the strategic principles and skills of product management]((../product-management-handbook/pmsummary)
