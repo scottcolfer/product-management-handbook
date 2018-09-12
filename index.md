@@ -21,3 +21,8 @@ Preface
 - [The Associate Product Manager role provides the core, tactical principles and skills of product management](../product-management-handbook/apmsummary)
 - [Work with agility](../product-management-handbook/agility)
 - [Make use of the Scrum framework](../product-management-handbook/scrum)
+- [Make use of the Government Service Toolkit](../product-management-handbook/servicetoolkit)
+
+**Product Manager**
+
+*Coming soon*
