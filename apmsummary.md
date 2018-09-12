@@ -15,4 +15,4 @@ Good conditions for rapid development of an Associate Product Manager include:
 
 We need to view Associate Product Managers as a large investment of time and effort in order to build excellent Product Managers as the future (rather than viewing them as a cheap version of a Product Manager).
 
-The GOV.UK role description for Associate Product Managers is great, clearly setting out expected skills, and the level of expertise required in each of these skills.
+The GOV.UK role description for [Associate Product Managers](https://www.gov.uk/government/publications/associate-product-manager-skills-they-need/associate-product-manager-skills-they-need) is great, clearly setting out expected skills, and the level of expertise required in each of these skills.
