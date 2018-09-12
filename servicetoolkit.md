@@ -8,7 +8,7 @@ GDS took all of this and created the [Government Service Toolkit](https://www.go
 
 Key sections of the Government Service Toolkit include:
 
-- [Government design principles](https://www.gov.uk/guidance/government-design-principles) - including the famous '[start with user needs](https://www.gov.uk/guidance/government-design-principles#start-with-user-needs)
+- [Government design principles](https://www.gov.uk/guidance/government-design-principles) - including the famous '[start with user needs](https://www.gov.uk/guidance/government-design-principles#start-with-user-needs)'
 - [Digital service standard](https://www.gov.uk/service-manual/service-standard) - the 18-point standard that government services must meet
 - [Service manual](https://www.gov.uk/service-manual), guidance on how to research - design and build services that meet the Digital Service Standard
     - this includes the common phases of agile government service development: [discovery](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works) - test your assumptions about the problem; [alpha](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works) - testing assumptions about the solution and looking for problem/solution fit; [beta](https://www.gov.uk/service-manual/agile-delivery/how-the-beta-phase-works) - build the thing and test it works; [live](https://www.gov.uk/service-manual/agile-delivery/how-the-live-phase-works) - test that the thing you built is being used, is useful, and it can can have its value continually optimised; [retirement](https://www.gov.uk/service-manual/agile-delivery/retiring-your-service) - stop a thing because it's no longer being used or no longer useful (or both).
