@@ -58,7 +58,7 @@ We should run a regular product strategy meeting to review all of the above (in 
 **Training:** 
 
 - [Strategyzer workshops](https://strategyzer.com/training/workshops)
-- [Product strategy and product roadmap](http://www.romanpichler.com/training-courses/agile-product-strategy-roadmaps-training-course/)
+- [Product strategy and product roadmap](http://www.romanpichler.com/training-courses/agile-product-strategy-roadmaps-training-course/), *Roman Pichler*
 
 ### Product lifecycle
 
