@@ -54,3 +54,34 @@ We should run a regular product strategy meeting to review all of the above (in 
     - [summary of key themes](https://speakerdeck.com/iamctodd/whats-your-roadmap)
 - [Roadmap principles](https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap), *UK government product community*
 - [Product roadmaps in 5 easy pieces](https://www.mindtheproduct.com/2018/09/product-roadmaps-in-five-easy-pieces/), *Scott Colfer*
+
+**Training:** 
+
+- [Strategyzer workshops](https://strategyzer.com/training/workshops)
+- [Product strategy and product roadmap](http://www.romanpichler.com/training-courses/agile-product-strategy-roadmaps-training-course/)
+
+### Product lifecycle
+
+Our strategy will be strongly influenced by where our product is at in its lifecycle.
+
+![Alt text](https://geileon.com/wp-content/uploads/2015/06/cycle_graph.jpg)
+
+The above diagram is a standard description of a product lifecycle, and if you imagine that ‘sales’ is more likely to mean ‘adoption’ when working in government then it works for us. The GDS service standard takes us to somewhere around ‘introduction’ or early ‘growth’ but we often forget about the rest of the lifecycle:
+
+- Introduction: initially, we’re looking to define the core features of our product in order to find problem/solution fit, so lots of the work will be focussed on development. As we get data that increases our confidence in the software’s features our focus will move to resilience (e.g. infrastructure, information security, service desk, etc) and the skills needed in our team will become more diverse.
+- Growth: Once our service is resilient, our focus will be on increasing adoption. This may require marketing, communication, training and operational skills just as much as it requires development skills (maybe even more so).
+- Maturity: Once our service approaches its maximum possible adoption then we look to optimise its value over time. New features is one aspect of this but we also need to prioritise innovation, service improvement, and technical debt.
+- Decline: We need to review the vision, roadmap and business model canvas for our product/service throughout its lifecycle and at some point the value proposition will weaken to the point where the product/service should be retired. This may be because a business process or policy has changed significantly, a key technology has improved, a ‘competitor’ has a better offer (and lots of other reasons). Here we need to continue to meet the needs of users until they have moved to the new solution.
+
+### Prioritisation and metrics
+
+All of our work as product managers comes to life in the act of prioritisation. Our job is to lead our teams in prioritising the work that is most valuable. As we’ve seen in this guidance, value is context specific, depending on this like what problem we’re solving, who we’re solving it for, who our client is, and what stage of the product lifecycle we’re in. We can use the business model canvas to define what’s valuable today, our vision to define what’s valuable in the future, and our roadmaps to define what we think is valuable between now and then.
+
+We can use data (often known as ‘metrics’) to measure value, set goals, and inform strategy - in other words, to help us prioritise our work. A lot is written about prioritisation but it’s still something of a ‘dark art’. Framing goals as hypotheses with pass/fail criteria helps us to bring more rigor to this process.
+
+Here are a couple of tools we can use to get going with prioritisation:
+
+- Prioritise today: impact vs effort is commonly used to evaluate options immediately in front of us. Here’s a guide to [impact vs effort priorisation](https://www.mindtheproduct.com/2017/07/enter-matrix-lean-prioritisation/) from Andy Wicks. Here’s a useful article called [Why Prioritization by Impact/Effort Doesn’t Work](https://www.linkedin.com/pulse/why-prioritization-impacteffort-doesnt-work-itamar-gilad) by Itamar Gilad to help avoid some of the pitfalls of this approach.
+- Prioritise over time: we will need to prioritise different types of work as our product matures. Here’s a guide to the [different types of work required by a mature product](http://www.barryovereem.com/the-backlog-prioritisation-backlog/) from Barry Overeem.
+
+Metrics (or data) is most useful when it leads to action. They should run through our vision, roadmap, business model canvas, and backlog. Metrics (or data) is most useful when it leads to action, e.g. it helps us to test a hypothesis about how to improve the value of our product/service, or helps us to prioritise an area for improvement. DWP has shared how they [identified their key metrics for a service](https://dwpdigital.blog.gov.uk/2017/06/30/helping-teams-identify-their-key-metrics/), and the GDS Service Standard contains a lot of advice on [key performance indicators](https://www.gov.uk/service-manual/service-standard/identify-performance-indicators).
