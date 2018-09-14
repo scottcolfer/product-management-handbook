@@ -8,14 +8,12 @@ Product are only valuable if they’re being used. This requires as much underst
 
 We improve the value of our products and the value of our product management by empowering and empathising with people.
 
-### Teams 'including 'stakeholders')
+### Teams ('including 'stakeholders')
 
-**Team composition**
-The [agile team onion](https://emilywebber.co.uk/agile-team-onion-many-pizzas-really-take-feed-team/) is a model for teams in large organisations, helping them to understand the full range of people in their teams and the value of each level of involvement. Used with your delivery manager and team, it will help to define the expectations of everyone in the core team, as well as the expectations of collaborators (who occasionally support the work of the team) and supporters (stakeholders who can remove blockers).
+**Team composition** - The [agile team onion](https://emilywebber.co.uk/agile-team-onion-many-pizzas-really-take-feed-team/) is a model for teams in large organisations, helping them to understand the full range of people in their teams and the value of each level of involvement. Used with your delivery manager and team, it will help to define the expectations of everyone in the core team, as well as the expectations of collaborators (who occasionally support the work of the team) and supporters (stakeholders who can remove blockers).
 ![Alt text](https://i2.wp.com/emilywebber.co.uk/wp-content/uploads/2016/05/agileteamoniontalk.009.jpeg)
 
-**Team functionality**
-[The five dysfunctions of a team](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756) helps us to understand the kind of behaviour that indicates that our teams are dysfunctional. Typical indicators of a dysfunctional team are: inattention to results; avoidance of accountability; lack of commitment; fear of conflict; absence of trust.
+**Team functionality** - [The five dysfunctions of a team](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756) helps us to understand the kind of behaviour that indicates that our teams are dysfunctional. Typical indicators of a dysfunctional team are: inattention to results; avoidance of accountability; lack of commitment; fear of conflict; absence of trust.
 ![Alt text](https://cdn-images-1.medium.com/max/1000/1*9L15G7abZV3D1gODzyYTlg.jpeg)
 
 **Reading:**
