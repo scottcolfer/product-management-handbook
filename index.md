@@ -37,5 +37,5 @@ Preface
 - [Product leadership puts our product management skills to work at a larger scale by developing our business strategy and digital transformation skills](../product-management-handbook/leadershipsummary)
 - [A note on product leadership roles and career progression](../product-management-handbook/leadershiproles)
 - [Keep being brilliant at the basics](../product-management-handbook/basics)
-- [Develop expertise in business strategy & digital transformation](../product-management-handbook/strategytransformation)
+- [Develop expertise in business strategy and digital transformation](../product-management-handbook/strategytransformation)
 - [Develop expertise in teaching, mentoring, coaching and facilitation](../product-management-handbook/coaching)
