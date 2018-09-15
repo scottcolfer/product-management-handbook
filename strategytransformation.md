@@ -1,6 +1,6 @@
 # Develop expertise in business strategy & digital transformation
 
-Remember our career development diagram? It helps us to understand that when we move from product management to product leadership, we need to start focussing on our generall leadership skills. Working on public services within digital and technology teams within UK government, ‘leadership skills’ can often mean two things in particular:
+Remember our [career development diagram](../product-management-handbook/pathwaydiagram)? It helps us to understand that when we move from product management to product leadership, we need to start focussing on our generall leadership skills. Working on public services within digital and technology teams within UK government, ‘leadership skills’ can often mean two things in particular:
 
 **Business Strategy** - The ability to apply business strategy and management frameworks to employ agile as a competitive business advantage such as Lean Start-Up and Lean Enterprise, product innovation techniques, flow-based business process management approaches, and other techniques that relate to innovating in the business domain.
 
