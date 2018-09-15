@@ -39,3 +39,4 @@ Preface
 - [Keep being brilliant at the basics](../product-management-handbook/basics)
 - [Develop expertise in business strategy and digital transformation](../product-management-handbook/strategytransformation)
 - [Develop expertise in teaching, mentoring, coaching and facilitation](../product-management-handbook/coaching)
+= [See the bigger picture](../product-management-handbook/leadershipdimensions)
