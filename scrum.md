@@ -35,7 +35,7 @@ Also:
 
 - [Product Owner Anti-Patterns](https://age-of-product.com/product-owner-anti-patterns/), *Stefan Wolpers*
 
-**Training::**
+**Training:**
 
 - [Working level for product managers](https://www.gov.uk/guidance/working-level-for-product-managers-course-description), GDS Academy: 3-day course that shares some of the core Scrum concepts, contextualised for government
 - [Certified Scrum Product Owner course](https://www.romanpichler.com/training-courses/certified-scrum-product-owner-course/), Roman Pichler: 2-day course on Scrum Product Ownership that leads to a professional certificate in Scrum Product Ownership from the Scrum Alliance
