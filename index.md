@@ -42,3 +42,4 @@ Preface
 - [See the bigger picture](../product-management-handbook/leadershipdimensions)
 - [Improve public services, one step at a time](../product-management-handbook/pdca)
 - [It's still OK to say 'no'](../product-management-handbook/continuesayingno)
+- [Senior Product Manager can often be thought of as a group product manager](../product-management-handbook/seniorpm)
