@@ -44,3 +44,4 @@ Preface
 - [It's still OK to say 'no'](../product-management-handbook/continuesayingno)
 - [Senior Product Manager can often be thought of as a group product manager](../product-management-handbook/seniorpm)
 - [Lead Product Manager can often be thought of as a 'head' of product for an area of the business](../product-management-handbook/leadpm)
+- [Head of Product: have empathy, avoid dogmatism](../product-management-handbook/hop)
