@@ -79,6 +79,8 @@ All of our work as product managers comes to life in the act of prioritisation. 
 
 We can use data (often known as ‘metrics’) to measure value, set goals, and inform strategy - in other words, to help us prioritise our work. A lot is written about prioritisation but it’s still something of a ‘dark art’. Framing goals as hypotheses with pass/fail criteria helps us to bring more rigor to this process.
 
+**Reading:** [Product Prioritisation by the Numbers](https://www.mindtheproduct.com/2017/10/product-prioritization-numbers/), *Kate Bennet*
+
 Here are a couple of tools we can use to get going with prioritisation:
 
 - Prioritise today: impact vs effort is commonly used to evaluate options immediately in front of us. Here’s a guide to [impact vs effort priorisation](https://www.mindtheproduct.com/2017/07/enter-matrix-lean-prioritisation/) from Andy Wicks. Here’s a useful article called [Why Prioritization by Impact/Effort Doesn’t Work](https://www.linkedin.com/pulse/why-prioritization-impacteffort-doesnt-work-itamar-gilad) by Itamar Gilad to help avoid some of the pitfalls of this approach.
