@@ -12,7 +12,7 @@ The value of product management expertise, business strategy and digital transfo
 
 There are many resources out there to help with developing our expertise when it comes to teaching, mentoring, coaching and facilitating, but these are particularly valuable:
 
-[Building Successful Communities of Practice](https://www.amazon.co.uk/Building-Successful-Communities-Practice-Webber/dp/095749193X/ref=sr_1_1?s=books&ie=UTF8&qid=1524172665&sr=1-1&keywords=Building+Successful+Communities+of+Practice) by Emily Webber contains the model on which many government departments have designed their communities of practice. Emily’s [community maturity model](https://emilywebber.co.uk/community-of-practice-maturity-model/) can measure improvements in the strength of our profession.
+[Building Successful Communities of Practice](https://www.amazon.co.uk/Building-Successful-Communities-Practice-Webber/dp/095749193X/ref=sr_1_1?s=books&ie=UTF8&qid=1524172665&sr=1-1&keywords=Building+Successful+Communities+of+Practice) by Emily Webber contains the model on which many government departments have designed their communities of practice - you can see a recent summary [here](https://www.slideshare.net/EmilyWebber/mind-the-product-london-2018-communities-of-practice/1). Emily’s [community maturity model](https://emilywebber.co.uk/community-of-practice-maturity-model/) can measure improvements in the strength of our profession.
 
 [Everyone needs a coach](https://medium.com/product-eq/everyone-needs-a-coach-9e317d2d5f76) by Kate Leto and Barry O’Reilly is a useful article for those new to coaching and mentoring; it provides and introduction to the difference between a coach, a mentor, and a consultant, and the possible value of each.
 
