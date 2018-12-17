@@ -33,7 +33,7 @@ Our job as product managers is to work with our teams to continually optimise th
 
 We have some key tools that help us with our product strategy:
 
-A problem statement should form the initial leap of faith for every product idea, then be refined and improved throughout the life of our products/services. Melanie Cannon from DWP has written helpful guidance on how to write a problem statement.
+A problem statement should form the initial leap of faith for every product idea, then be refined and improved throughout the life of our products/services. Melanie Cannon from DWP has written helpful [guidance](https://medium.com/leading-service-design/how-to-write-a-problem-statement-50e2c87810fe) on how to write a problem statement.
 
 Value proposition, business model canvas, product vision, and product roadmap are some of the most critical strategic tools we use day to day:
 
